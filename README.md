@@ -47,3 +47,6 @@ https://kinesis-ergo.com/support/kb360pro/#manuals
 
 ## GUI
 https://kinesiscorporation.github.io/Adv360-Pro-GUI/
+
+## ZMK docs
+https://zmk.dev/docs
