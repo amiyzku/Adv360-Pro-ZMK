@@ -49,11 +49,11 @@
 
         layer_base_win {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                              &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                              &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &kp LEFT_ALT  &kp LEFT_WIN                  &trans  &trans   &none  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans             &none         &none        &trans   &none   &none  &trans   &none   &none  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans     &kp LCTRL        &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+ &trans                  &trans                  &trans                  &trans                  &trans  &trans            &trans                                                              &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans                  &trans                  &trans                  &trans                  &trans  &trans            &trans                                                              &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans                  &trans                  &trans                  &trans                  &trans  &trans            &trans  &kp LEFT_ALT  &kp LEFT_WIN                  &trans  &trans   &none  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans                  &trans                  &trans                  &trans                  &trans  &trans             &none         &none        &trans   &none   &none  &trans   &none   &none  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &macro_w_move_l_deskto  &macro_w_switch_window  &macro_w_view_all_wind  &macro_w_move_r_deskto                    &trans     &kp LCTRL        &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 

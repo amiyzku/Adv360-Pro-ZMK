@@ -1,3 +1,27 @@
+macro_w_switch_window: macro_w_switch_window{
+compatible = "zmk,behavior-macro";
+label = "macro_w_switch_window";
+#binding-cells = <0>;
+bindings = <&kp LEFT_ALT>, <&kp TAB>;
+};
+macro_w_view_all_wind: macro_w_view_all_wind{
+compatible = "zmk,behavior-macro";
+label = "macro_w_view_all_wind";
+#binding-cells = <0>;
+bindings = <&kp LEFT_WIN>, <&kp TAB>;
+};
+macro_w_move_l_deskto: macro_w_move_l_deskto{
+compatible = "zmk,behavior-macro";
+label = "macro_w_move_l_deskto";
+#binding-cells = <0>;
+bindings = <&kp LEFT_CONTROL>, <&kp LEFT_WIN>, <&kp LEFT>;
+};
+macro_w_move_r_deskto: macro_w_move_r_deskto{
+compatible = "zmk,behavior-macro";
+label = "macro_w_move_r_deskto";
+#binding-cells = <0>;
+bindings = <&kp LEFT_CONTROL>, <&kp LEFT_WIN>, <&kp RIGHT>;
+};
 macro_switch_window: macro_switch_window{
 compatible = "zmk,behavior-macro";
 label = "macro_switch_window";
