@@ -45,7 +45,7 @@ Further support resources can be found on Kinesis.com
 https://kinesis-ergo.com/support/kb360pro/#firmware-updates
 https://kinesis-ergo.com/support/kb360pro/#manuals
 
-## GUI
+## GUI editor
 https://kinesiscorporation.github.io/Adv360-Pro-GUI/
 
 ## ZMK docs
