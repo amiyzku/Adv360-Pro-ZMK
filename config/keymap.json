@@ -19,7 +19,7 @@
     ], [
                  "&trans",       "&trans",       "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
                  "&trans",       "&trans",       "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-                 "&trans",       "&trans",       "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+           "&kp LEFT_ALT",       "&trans",       "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
                  "&trans",       "&trans",       "&trans", "&trans", "&trans", "&trans",            "&none",  "&none", "&trans",  "&none",  "&none", "&trans",  "&none",  "&none", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&kp LEFT_CONTROL", "&kp LEFT_WIN", "&kp LEFT_ALT",  "&mo 2",  "&mo 2",                     "&trans", "&trans", "&trans",                     "&trans",  "&mo 4", "&trans",            "&mo 2", "&trans", "&trans", "&trans",  "&mo 2"
     ], [
